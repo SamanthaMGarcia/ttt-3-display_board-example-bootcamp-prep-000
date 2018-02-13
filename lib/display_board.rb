@@ -1,3 +1,7 @@
 def display_board
-3.times {print "   "}
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
 end
