@@ -1,6 +1,3 @@
 def display_board
-cell =  "   "
-cell
-cell
-
+3.times {print "   "}
 end
